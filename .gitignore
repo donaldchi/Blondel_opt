@@ -1,0 +1,11 @@
+*.xls
+*.xlsx
+*.txt
+*.bin
+*.sh
+*.cc
+*.h
+*.e*
+*.o*
+*.tree
+
